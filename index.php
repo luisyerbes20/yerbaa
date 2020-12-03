@@ -1,1 +1,1 @@
-<? php require_once(Graficas_weets.html) ?>
+<? php require_once("Graficas_weets.html") ?>
